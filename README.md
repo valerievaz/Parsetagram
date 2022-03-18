@@ -36,6 +36,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![unit6_gif](https://user-images.githubusercontent.com/80940481/159057181-74092636-69f0-4316-a195-54e705ccad76.gif)
+
+
 
 ## Notes
 
